@@ -1,0 +1,8 @@
+{
+  "name": "aws-lambda-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShuichiDejima/aws-lambda-ts.git",
+  "author": "ShuichiDejima <dejima.s@world-wing.com>",
+  "license": "MIT"
+}
